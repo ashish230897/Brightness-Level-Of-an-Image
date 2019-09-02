@@ -27,3 +27,6 @@ $ pip install matplotlib
 ```
 The python3.7 interpreter can be used further with any ide/jupyter notebook to run the above code then.
 
+
+## Acknowledgements  
+This [repository](https://github.com/imneonizer/How-to-find-if-an-image-is-bright-or-dark) inspired me to come up with my own repo! 
